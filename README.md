@@ -337,7 +337,7 @@
             <h2 id="hero-title">Luz de la Fe: Fortaleciendo Familias</h2>
             <p>Bienvenidos a un proyecto transformador de FUNCECOR que utiliza los medios de comunicación para difundir los valores católicos, inspirando a las familias a vivir su fe con alegría y compromiso en un mundo cambiante.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" title="Introducción a Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://stream.mux.com/00NLXw9hnmNQOkToRRxCcA6yU33S0201fDj.m3u8" title="Introducción a Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
 
