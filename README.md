@@ -40,7 +40,7 @@
             align-items: center;
             justify-content: center;
             gap: 2.5rem;
-            max-width: 1400px;
+            max-width: 1920px;
             margin: 0 auto;
         }
         header h1 {
