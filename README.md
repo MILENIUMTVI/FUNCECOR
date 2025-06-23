@@ -309,7 +309,7 @@
             <img src="logo.png" alt="Logo FUNCECOR - Fundación Educativa para el Desarrollo" class="logo">
             <h1>FUNCECOR</h1>
         </div>
-        <p>Luz de la Fe: Un faro divino que ilumina el camino de las familias católicas, fortaleciendo su fe, amor y unidad en un mundo de desafíos modernos.</p>
+        <p>Luz de la Fe: Un faro que ilumina el camino de las familias católicas, fortaleciendo su fe, amor y unidad en un mundo de desafíos modernos.</p>
     </header>
 
     <!-- Navegación -->
@@ -337,7 +337,7 @@
             <h2 id="hero-title">Luz de la Fe: Fortaleciendo Familias</h2>
             <p>Bienvenidos a un proyecto transformador de FUNCECOR que utiliza los medios de comunicación para difundir los valores católicos, inspirando a las familias a vivir su fe con alegría y compromiso en un mundo cambiante.</p>
             <div class="multimedia">
-                <iframe width="560" height="315" src="https://youtu.be/zoKoxeSRIag" title="Introducción a Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/zoKoxeSRIag" title="Introducción a Luz de la Fe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
 
